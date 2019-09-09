@@ -1,19 +1,12 @@
 
-1. 安装　
-
-```
-npm install
-```
-
-2. 运行，将在 `/db` 创建 `test.sqlite`　
-
-```
-node index.js
-```
 
 
 # 使用
-　
+
+- 引用
+```
+const db = require('sqlite-caidan')
+```
 
 - 连接数据库
 ```
